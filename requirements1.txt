@@ -1,5 +1,0 @@
-streamlit
-faster-whisper
-torch
-torchaudio
-av==17.1.0
